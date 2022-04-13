@@ -40,7 +40,7 @@
 
 <hr>
 
-[linkedin]: www.linkedin.com/in/nitesh-sharma-613595118
+[linkedin]: https://www.linkedin.com/in/nitesh-sharma-613595118/
 [twitter]: https://twitter.com/Nitesh_sharma05
 [Instagram]: https://www.instagram.com/niteshsharma05/
 
