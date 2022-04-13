@@ -34,8 +34,7 @@
 [<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="c17hawke | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="c17hawke | Pexels" width="80px" src="http://images.pexels.com/lib/api/pexels.png" />][Pexels]
+
 
 <br>
 
@@ -48,6 +47,3 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c17hawke&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c17hawke&" alt="c17hawke" /></p>
